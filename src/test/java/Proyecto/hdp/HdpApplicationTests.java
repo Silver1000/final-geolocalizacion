@@ -9,7 +9,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class HdpApplicationTests {
 
-	@Test
+	@Test //pruebas de unidad se realizan aqui
 	public void contextLoads() {
 	}
 
